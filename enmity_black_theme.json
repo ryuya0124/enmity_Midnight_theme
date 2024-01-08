@@ -9,7 +9,6 @@
         }
     ],
     "theme_color_map": {
-        "KEYBOARD": ["#0D0116", "#FFFFFF"],
         "TEXT_NORMAL": ["#dcddde", "#FFFFFF"],
         "TEXT_MUTED": ["#4a4a52", "#FFFFFF"],
         "INTERACTIVE_NORMAL": ["#b9bbbe", "#FFFFFF"],
