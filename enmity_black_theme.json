@@ -11,7 +11,7 @@
     "theme_color_map": {
         "TEXT_NORMAL": ["#dcddde"],
         "TEXT_MUTED": ["#4a4a52"],
-        "TEXT_LINK": ["#121319"],
+        "TEXT_LINK": ["#121319","#006da1"],
         "INTERACTIVE_NORMAL": ["#b9bbbe"],
         "INTERACTIVE_HOVER": ["#dcddde"],
         "INTERACTIVE_ACTIVE": ["#c9ced0"],
