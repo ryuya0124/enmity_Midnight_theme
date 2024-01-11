@@ -35,7 +35,6 @@
           "BACKGROUND_NESTED_FLOATING": ["#000000"],
           "BACKGROUND_PRIMARY": ["#000000"],
           "BACKGROUND_SECONDARY": ["#131318"],
-          "BACKGROUND_SECONDARY_ALT": ["#2c2d35"],
           "BACKGROUND_TERTIARY": ["#212229"],
           "BG_BACKDROP": ["#212229bf"],
           "BG_BACKDROP_NO_OPACITY": ["#212229"],
