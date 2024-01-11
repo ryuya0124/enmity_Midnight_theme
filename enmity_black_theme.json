@@ -291,7 +291,7 @@
           "STATUS_WARNING_TEXT": ["#000000"],
           "TEXT_BRAND": ["#7984f5"],
           "TEXT_DANGER": ["#fa777b"],
-          "TEXT_LINK": ["#121319"],
+          "TEXT_LINK": ["#00aafc"],
           "TEXT_LINK_LOW_SATURATION": ["#2eb6ff"],
           "TEXT_LOW_CONTRAST": ["#5b5e6a"],
           "TEXT_MESSAGE_PREVIEW_LOW_SAT": ["#9597a3"],
