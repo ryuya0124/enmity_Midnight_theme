@@ -183,7 +183,7 @@
           "LEGACY_BLUR_FALLBACK_ULTRA_THIN": ["#000000f2"],
           "LIVE_STAGE_TILE_BORDER": ["#4d505b99"],
           "LOGO_PRIMARY": ["#ffffff"],
-          "MENTION_BACKGROUND": ["#5865f27f"],
+          "MENTION_BACKGROUND": ["#383c7b"],
           "MENTION_FOREGROUND": ["#d4d7fc"],
           "MODAL_BACKGROUND": ["#31323b"],
           "MODAL_FOOTER_BACKGROUND": ["#2c2d35"],
